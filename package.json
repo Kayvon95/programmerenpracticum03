@@ -1,0 +1,19 @@
+{
+  "name": "myworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "k1",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "mocha": "^3.3.0"
+  },
+  "dependencies": {
+    "mysql": "^2.13.0"
+  }
+}
